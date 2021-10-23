@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/work_space/ml_ops/mlruns/0/cb4c196bcd8a4dbdb3c53f5290f97133/artifacts
+end_time: 1633860740218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: cb4c196bcd8a4dbdb3c53f5290f97133
+run_uuid: cb4c196bcd8a4dbdb3c53f5290f97133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1633860731563
+status: 3
+tags: []
+user_id: Fawzi
